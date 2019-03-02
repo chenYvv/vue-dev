@@ -1,4 +1,4 @@
-# vuejs-essential
+# vue-dev
 
 > A Vue.js project
 
